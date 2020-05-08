@@ -28,7 +28,7 @@
         tools:layout_editor_absoluteY="315dp" />
 
     <EditText
-        android:id="@+id/textView2"
+        android:id="@+id/email"
         android:layout_width="278dp"
         android:layout_height="41dp"
         app:layout_constraintEnd_toEndOf="parent"
